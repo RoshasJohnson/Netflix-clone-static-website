@@ -8,3 +8,47 @@
 Body {
   background-color: black;
 }
+.play {
+  background-color: gray;
+  font-size: 25px;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+.more-info {
+  background-color: gray;
+  font-size: 25px;
+
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  color: black;
+}
+.butten {
+  padding-left: 100px;
+  padding-top: 70px;
+}
+.more-info:hover {
+  border: black;
+  background-color: black;
+  color: white;
+}
+.play:hover {
+  border: black;
+  background-color: black;
+  color: white;
+}
+.movie {
+  margin-left: 10px;
+}
+.movielist::-webkit-scrollbar {
+  display: none;
+}
