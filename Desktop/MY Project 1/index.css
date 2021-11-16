@@ -1,0 +1,10 @@
+.Head {
+  background-image: url(Pictures/stranger-things-5k-wallpaper-preview.jpg);
+  height: 700px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+Body {
+  background-color: black;
+}
